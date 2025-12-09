@@ -9,6 +9,7 @@ A collection of solved LeetCode questions!
 | [0007-reverse-integer](https://github.com/Ayuushii/LeetCoding/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of solved LeetCode questions!
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
 ## Simulation
 |  |
@@ -40,6 +42,7 @@ A collection of solved LeetCode questions!
 | [0198-house-robber](https://github.com/Ayuushii/LeetCoding/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Ayuushii/LeetCoding/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayuushii/LeetCoding/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
@@ -86,6 +89,7 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -121,6 +125,7 @@ A collection of solved LeetCode questions!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayuushii/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Linked List
@@ -138,6 +143,7 @@ A collection of solved LeetCode questions!
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
