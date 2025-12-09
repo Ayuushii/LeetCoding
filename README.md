@@ -1,5 +1,12 @@
 
 # GFG Topics
+## Algorithms
+|  |
+| --- |
+| [Display Doubly Linked List ](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
+
+
+# GFG Topics
 
 # LeetCoding
 A collection of solved LeetCode questions!
