@@ -42,6 +42,7 @@ A collection of solved LeetCode questions!
 | [0239-sliding-window-maximum](https://github.com/Ayuushii/LeetCoding/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ayuushii/LeetCoding/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayuushii/LeetCoding/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ayuushii/LeetCoding/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -52,6 +53,7 @@ A collection of solved LeetCode questions!
 | [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/Ayuushii/LeetCoding/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayuushii/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuushii/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -138,4 +141,8 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayuushii/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
