@@ -7,6 +7,7 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ayuushii/LeetCoding/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Ayuushii/LeetCoding/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
