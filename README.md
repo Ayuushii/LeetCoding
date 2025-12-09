@@ -56,6 +56,7 @@ A collection of solved LeetCode questions!
 | [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayuushii/LeetCoding/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Ayuushii/LeetCoding/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/Ayuushii/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ayuushii/LeetCoding/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -68,6 +69,7 @@ A collection of solved LeetCode questions!
 | [0198-house-robber](https://github.com/Ayuushii/LeetCoding/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
