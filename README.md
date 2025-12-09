@@ -9,6 +9,7 @@ A collection of solved LeetCode questions!
 | [0007-reverse-integer](https://github.com/Ayuushii/LeetCoding/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ayuushii/LeetCoding/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayuushii/LeetCoding/tree/master/0779-k-th-symbol-in-grammar) |
@@ -67,6 +68,7 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ayuushii/LeetCoding/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
@@ -217,4 +219,8 @@ A collection of solved LeetCode questions!
 | ------- |
 | [0207-course-schedule](https://github.com/Ayuushii/LeetCoding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
