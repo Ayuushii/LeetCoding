@@ -11,6 +11,7 @@ A collection of solved LeetCode questions!
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -31,6 +32,7 @@ A collection of solved LeetCode questions!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 ## Recursion
 |  |
@@ -62,4 +64,8 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
