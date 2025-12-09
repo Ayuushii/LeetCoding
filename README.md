@@ -40,6 +40,7 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
@@ -167,6 +168,7 @@ A collection of solved LeetCode questions!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
