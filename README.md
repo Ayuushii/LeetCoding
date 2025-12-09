@@ -38,6 +38,7 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
@@ -150,6 +151,7 @@ A collection of solved LeetCode questions!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayuushii/LeetCoding/tree/master/0283-move-zeroes) |
@@ -157,6 +159,7 @@ A collection of solved LeetCode questions!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
