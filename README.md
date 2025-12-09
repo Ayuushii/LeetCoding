@@ -182,6 +182,7 @@ A collection of solved LeetCode questions!
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayuushii/LeetCoding/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of solved LeetCode questions!
 | [0142-linked-list-cycle-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayuushii/LeetCoding/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayuushii/LeetCoding/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
