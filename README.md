@@ -65,6 +65,7 @@ A collection of solved LeetCode questions!
 | [0643-maximum-average-subarray-i](https://github.com/Ayuushii/LeetCoding/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Ayuushii/LeetCoding/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
+| [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
 | [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayuushii/LeetCoding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +110,7 @@ A collection of solved LeetCode questions!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayuushii/LeetCoding/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of solved LeetCode questions!
 | [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
 | [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
@@ -226,10 +229,12 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -257,4 +262,16 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayuushii/LeetCoding/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
