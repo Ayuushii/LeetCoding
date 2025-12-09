@@ -40,6 +40,7 @@ A collection of solved LeetCode questions!
 | [0198-house-robber](https://github.com/Ayuushii/LeetCoding/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Ayuushii/LeetCoding/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Ayuushii/LeetCoding/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ayuushii/LeetCoding/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
@@ -129,6 +130,7 @@ A collection of solved LeetCode questions!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ayuushii/LeetCoding/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
