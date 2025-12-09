@@ -15,6 +15,7 @@ A collection of solved LeetCode questions!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayuushii/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/Ayuushii/LeetCoding/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
