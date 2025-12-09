@@ -1,1 +1,1 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/0">Display Doubly Linked List </a></h2><hr><h3>Problem Statement</h3><p>Could not extract text. <a href="https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/0">Link</a></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/0">Display Doubly Linked List </a></h2><hr><h3>Problem</h3><p><a href="https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/0">Link</a></p>
