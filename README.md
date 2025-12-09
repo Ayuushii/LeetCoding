@@ -148,6 +148,7 @@ A collection of solved LeetCode questions!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ayuushii/LeetCoding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayuushii/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Ayuushii/LeetCoding/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Ayuushii/LeetCoding/tree/master/0207-course-schedule) |
@@ -215,11 +216,13 @@ A collection of solved LeetCode questions!
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ayuushii/LeetCoding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayuushii/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayuushii/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Ayuushii/LeetCoding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayuushii/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayuushii/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix
