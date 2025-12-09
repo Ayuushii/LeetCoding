@@ -33,6 +33,7 @@ A collection of solved LeetCode questions!
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Ayuushii/LeetCoding/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayuushii/LeetCoding/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
@@ -50,6 +51,7 @@ A collection of solved LeetCode questions!
 | [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Ayuushii/LeetCoding/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Ayuushii/LeetCoding/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ayuushii/LeetCoding/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
