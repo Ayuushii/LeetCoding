@@ -92,10 +92,12 @@ A collection of solved LeetCode questions!
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayuushii/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuushii/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayuushii/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuushii/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -125,4 +127,12 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayuushii/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ayuushii/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
