@@ -36,6 +36,7 @@ A collection of solved LeetCode questions!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
@@ -130,6 +131,7 @@ A collection of solved LeetCode questions!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayuushii/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
