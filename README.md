@@ -26,6 +26,7 @@ A collection of solved LeetCode questions!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayuushii/LeetCoding/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayuushii/LeetCoding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of solved LeetCode questions!
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ayuushii/LeetCoding/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayuushii/LeetCoding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayuushii/LeetCoding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayuushii/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
