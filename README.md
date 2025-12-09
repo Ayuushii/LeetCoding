@@ -77,4 +77,20 @@ A collection of solved LeetCode questions!
 | [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ayuushii/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ayuushii/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ayuushii/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Ayuushii/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
