@@ -18,6 +18,7 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
 ## Simulation
@@ -28,6 +29,7 @@ A collection of solved LeetCode questions!
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Ayuushii/LeetCoding/tree/master/0239-sliding-window-maximum) |
@@ -72,6 +74,7 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
