@@ -11,6 +11,7 @@ A collection of solved LeetCode questions!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ayuushii/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
@@ -52,6 +53,7 @@ A collection of solved LeetCode questions!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ayuushii/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Ayuushii/LeetCoding/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
@@ -93,4 +95,8 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuushii/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ayuushii/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
