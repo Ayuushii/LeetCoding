@@ -39,6 +39,7 @@ A collection of solved LeetCode questions!
 | [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ayuushii/LeetCoding/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ayuushii/LeetCoding/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
