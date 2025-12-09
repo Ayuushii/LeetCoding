@@ -163,6 +163,7 @@ A collection of solved LeetCode questions!
 | [0001-two-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayuushii/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -171,6 +172,7 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
@@ -178,6 +180,7 @@ A collection of solved LeetCode questions!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayuushii/LeetCoding/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
