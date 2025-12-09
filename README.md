@@ -62,6 +62,7 @@ A collection of solved LeetCode questions!
 | [0746-min-cost-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
 | [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Ayuushii/LeetCoding/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ayuushii/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ayuushii/LeetCoding/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayuushii/LeetCoding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -139,6 +140,7 @@ A collection of solved LeetCode questions!
 | [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ayuushii/LeetCoding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ayuushii/LeetCoding/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Ayuushii/LeetCoding/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ayuushii/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ayuushii/LeetCoding/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
@@ -201,6 +203,7 @@ A collection of solved LeetCode questions!
 | [0130-surrounded-regions](https://github.com/Ayuushii/LeetCoding/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ayuushii/LeetCoding/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Ayuushii/LeetCoding/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ayuushii/LeetCoding/tree/master/1020-number-of-enclaves) |
 ## Divide and Conquer
 |  |
