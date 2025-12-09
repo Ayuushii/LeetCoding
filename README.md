@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
