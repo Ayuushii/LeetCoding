@@ -63,6 +63,7 @@ A collection of solved LeetCode questions!
 | [0733-flood-fill](https://github.com/Ayuushii/LeetCoding/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
 | [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayuushii/LeetCoding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Ayuushii/LeetCoding/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ayuushii/LeetCoding/tree/master/1020-number-of-enclaves) |
@@ -173,6 +174,7 @@ A collection of solved LeetCode questions!
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayuushii/LeetCoding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayuushii/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
