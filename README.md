@@ -11,6 +11,7 @@ A collection of solved LeetCode questions!
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ayuushii/LeetCoding/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of solved LeetCode questions!
 | [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ayuushii/LeetCoding/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
 ## Simulation
 |  |
@@ -68,6 +70,7 @@ A collection of solved LeetCode questions!
 ## Recursion
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ayuushii/LeetCoding/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
