@@ -13,6 +13,7 @@ A collection of solved LeetCode questions!
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayuushii/LeetCoding/tree/master/0779-k-th-symbol-in-grammar) |
+| [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of solved LeetCode questions!
 | [0643-maximum-average-subarray-i](https://github.com/Ayuushii/LeetCoding/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Ayuushii/LeetCoding/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
+| [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/Ayuushii/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ayuushii/LeetCoding/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -162,6 +164,7 @@ A collection of solved LeetCode questions!
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
 ## Linked List
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of solved LeetCode questions!
 | [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
+| [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
@@ -223,4 +227,8 @@ A collection of solved LeetCode questions!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
 <!---LeetCode Topics End-->
