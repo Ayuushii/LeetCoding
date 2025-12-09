@@ -3,4 +3,7 @@
 <h3>Medium</h3>
 <hr>
 
-<p>Problem statement not found</p>
+<p>The first line contains an integer <strong>n. </strong>The second line contains n<strong>&nbsp;</strong>space separated integers denoting the&nbsp;<strong>values&nbsp;</strong>&nbsp;of doubly linked list.</p>
+<p><strong>Example:</strong></p>
+<pre>5
+1 2 3 4 5</pre>
