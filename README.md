@@ -6,6 +6,7 @@ A collection of solved LeetCode questions!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ayuushii/LeetCoding/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
