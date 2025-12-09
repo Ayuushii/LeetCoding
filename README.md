@@ -283,3 +283,8 @@ A collection of solved LeetCode questions!
 | ------- |
 | [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
+
+
+<!---GFG Topics Start-->
+# GFG Topics
+<!---GFG Topics End-->
