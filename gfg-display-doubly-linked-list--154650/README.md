@@ -1,1 +1,0 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/0">Doubly Linked List Traversal</a></h2><hr><h3>Doubly Linked List Traversal | Practice | GeeksforGeeks</h3><p>See <a href="https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/0">Problem Link</a></p>
