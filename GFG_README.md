@@ -35,6 +35,7 @@
 | --- |
 | [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
 | [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
+| [gfg-finding-middle-element-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-finding-middle-element-in-a-linked-list) |
 | [gfg-largest-element-in-array4009](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-largest-element-in-array4009) |
 | [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
 | [gfg-nth-node-from-end-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-nth-node-from-end-of-linked-list) |
@@ -52,6 +53,7 @@
 | --- |
 | [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
 | [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
+| [gfg-finding-middle-element-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-finding-middle-element-in-a-linked-list) |
 | [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
 | [gfg-nth-node-from-end-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-nth-node-from-end-of-linked-list) |
 | [gfg-reverse-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-a-linked-list) |
@@ -78,3 +80,8 @@
 | --- |
 | [gfg-remove-spaces0128](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-remove-spaces0128) |
 | [gfg-reverse-a-string](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-a-string) |
+
+## Two Pointer Algorithm
+|  |
+| --- |
+| [gfg-finding-middle-element-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-finding-middle-element-in-a-linked-list) |
