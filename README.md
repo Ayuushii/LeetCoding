@@ -282,7 +282,6 @@
 <!---LeetCode Topics End-->
 
 
-# GFG Topics
 ## Data Structures
 |  |
 | --- |
@@ -295,3 +294,10 @@
 |  |
 | --- |
 | [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
+
+
+# GFG Topics
+## Algorithms
+|  |
+| --- |
+| [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
