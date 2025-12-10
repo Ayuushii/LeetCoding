@@ -40,4 +40,5 @@
 ## Strings
 |  |
 | --- |
+| [gfg-remove-spaces0128](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-remove-spaces0128) |
 | [gfg-reverse-a-string](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-a-string) |
