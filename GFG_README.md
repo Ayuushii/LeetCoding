@@ -1,9 +1,30 @@
 # GeeksForGeeks Solutions
 
+## Algorithms
+|  |
+| --- |
+| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
+
+## Arrays
+|  |
+| --- |
+| [gfg-array-insert-at-end](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-array-insert-at-end) |
+| [gfg-array-insert-at-index](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-array-insert-at-index) |
+| [gfg-largest-element-in-array4009](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-largest-element-in-array4009) |
+| [gfg-reverse-sub-array5620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-sub-array5620) |
+| [gfg-strongest-neighbour](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-strongest-neighbour) |
+| [gfg-who-has-the-majority](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-has-the-majority) |
+
+## Binary Search
+|  |
+| --- |
+| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
+
 ## Data Structures
 |  |
 | --- |
 | [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
+| [gfg-largest-element-in-array4009](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-largest-element-in-array4009) |
 | [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
 | [gfg-who-has-the-majority](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-has-the-majority) |
 
@@ -13,26 +34,7 @@
 | [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
 | [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
 
-## Arrays
-|  |
-| --- |
-| [gfg-reverse-sub-array5620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-sub-array5620) |
-| [gfg-array-insert-at-end](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-array-insert-at-end) |
-| [gfg-array-insert-at-index](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-array-insert-at-index) |
-| [gfg-strongest-neighbour](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-strongest-neighbour) |
-| [gfg-who-has-the-majority](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-has-the-majority) |
-
 ## Searching
-|  |
-| --- |
-| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
-
-## Binary Search
-|  |
-| --- |
-| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
-
-## Algorithms
 |  |
 | --- |
 | [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
