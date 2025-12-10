@@ -1,11 +1,3 @@
-
-| Platform | Easy | Medium | Hard | Total |
-| :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | 0 | 0 | 0 | 0 |
-| **GeeksForGeeks** | 0 | 0 | 0 | 0 |
-| **Grand Total** | **0** | **0** | **0** | **0** |
-
-
 ## [View GeeksForGeeks Solutions](./GFG_README.md)
 
 <!---LeetCode Topics Start-->
