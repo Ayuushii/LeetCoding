@@ -3,6 +3,7 @@
 ## Algorithms
 |  |
 | --- |
+| [gfg-factorial5739](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-factorial5739) |
 | [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
 
 ## Arrays
@@ -39,6 +40,11 @@
 | --- |
 | [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
 | [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
+
+## Mathematical
+|  |
+| --- |
+| [gfg-factorial5739](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-factorial5739) |
 
 ## Searching
 |  |
