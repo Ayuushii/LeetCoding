@@ -1,12 +1,4 @@
-
-
-
-
 # GFG Topics
-## Algorithms
-|  |
-| --- |
-| [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
 ## Data Structures
 |  |
 | --- |
