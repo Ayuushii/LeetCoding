@@ -281,23 +281,4 @@
 | [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
 
-
-## Data Structures
-|  |
-| --- |
-| [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
-## Doubly Linked List
-|  |
-| --- |
-| [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
-## Linked List
-|  |
-| --- |
-| [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
-
-
 # GFG Topics
-## Algorithms
-|  |
-| --- |
-| [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
