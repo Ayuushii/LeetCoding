@@ -20,12 +20,18 @@
 | --- |
 | [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
 
+## Bit Magic
+|  |
+| --- |
+| [gfg-set-kth-bit3724](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-set-kth-bit3724) |
+
 ## Data Structures
 |  |
 | --- |
 | [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
 | [gfg-largest-element-in-array4009](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-largest-element-in-array4009) |
 | [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
+| [gfg-set-kth-bit3724](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-set-kth-bit3724) |
 | [gfg-who-has-the-majority](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-has-the-majority) |
 
 ## Linked List
