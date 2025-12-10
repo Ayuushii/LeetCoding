@@ -1,5 +1,10 @@
 # GeeksForGeeks Solutions
 
+## Algorithms
+|  |
+| --- |
+| [gfg-who-has-the-majority](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-has-the-majority) |
+
 ## Data Structures
 |  |
 | --- |
