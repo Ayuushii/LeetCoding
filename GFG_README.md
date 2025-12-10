@@ -5,6 +5,7 @@
 | --- |
 | [gfg-bubble-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-bubble-sort) |
 | [gfg-factorial5739](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-factorial5739) |
+| [gfg-selection-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-selection-sort) |
 | [gfg-square-pattern](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-square-pattern) |
 | [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
 
