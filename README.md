@@ -1,3 +1,5 @@
+## [View GeeksForGeeks Solutions](./GFG_README.md)
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
