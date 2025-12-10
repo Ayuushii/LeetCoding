@@ -1,5 +1,20 @@
 
 # GFG Topics
+## Data Structures
+|  |
+| --- |
+| [Display Doubly Linked List ](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
+## Linked List
+|  |
+| --- |
+| [Display Doubly Linked List ](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
+## doubly-linked-list
+|  |
+| --- |
+| [Display Doubly Linked List ](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
+
+
+# GFG Topics
 ## code online
 |  |
 | --- |
