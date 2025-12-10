@@ -34,6 +34,7 @@
 | [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
 | [gfg-largest-element-in-array4009](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-largest-element-in-array4009) |
 | [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
+| [gfg-reverse-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-a-linked-list) |
 | [gfg-set-kth-bit3724](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-set-kth-bit3724) |
 | [gfg-who-has-the-majority](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-has-the-majority) |
 
@@ -48,6 +49,7 @@
 | [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
 | [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
 | [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
+| [gfg-reverse-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-a-linked-list) |
 
 ## Mathematical
 |  |
