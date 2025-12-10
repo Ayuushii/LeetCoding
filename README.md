@@ -8,20 +8,6 @@
 
 ## [View GeeksForGeeks Solutions](./GFG_README.md)
 
-| Platform | Easy | Medium | Hard | Total |
-| :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | 0 | 0 | 0 | 0 |
-| **GeeksForGeeks** | 0 | 0 | 0 | 0 |
-| **Grand Total** | **0** | **0** | **0** | **0** || Platform | Easy | Medium | Hard | Total |
-| :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | 0 | 0 | 0 | 0 |
-| **GeeksForGeeks** | 0 | 0 | 0 | 0 |
-| **Grand Total** | **0** | **0** | **0** | **0** || Platform | Easy | Medium | Hard | Total |
-| :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | 0 | 0 | 0 | 0 |
-| **GeeksForGeeks** | 0 | 0 | 0 | 0 |
-| **Grand Total** | **0** | **0** | **0** | **0** |
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
