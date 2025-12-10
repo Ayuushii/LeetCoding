@@ -6,7 +6,7 @@
 ## Difficulty: Medium | Accuracy: Unknown | Points: 0
 
 ## Topics
-**Algorithms**
+**Arrays, Data Structures**
 
 ---
 
