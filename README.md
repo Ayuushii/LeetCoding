@@ -1,4 +1,16 @@
+
+
+
+
 # GFG Topics
+## Data Structures
+|  |
+| --- |
+| [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
+## Linked List
+|  |
+| --- |
+| [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
 ## Data Structures
 |  |
 | --- |
