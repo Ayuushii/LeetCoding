@@ -20,3 +20,18 @@
 | [gfg-array-insert-at-index](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-array-insert-at-index) |
 | [gfg-strongest-neighbour](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-strongest-neighbour) |
 | [gfg-who-has-the-majority](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-has-the-majority) |
+
+## Searching
+|  |
+| --- |
+| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
+
+## Binary Search
+|  |
+| --- |
+| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
+
+## Algorithms
+|  |
+| --- |
+| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
