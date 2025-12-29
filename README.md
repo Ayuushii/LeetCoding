@@ -1,4 +1,4 @@
-## [View GeeksForGeeks Solutions](./GFG_README.md)
+## [View GFG Topics](./GFG_README.md)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
