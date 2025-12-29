@@ -1,4 +1,4 @@
-# GeeksForGeeks Solutions
+# GFG Topics
 
 ## Algorithms
 |  |
