@@ -54,6 +54,7 @@
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Ayuushii/LeetCoding/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Ayuushii/LeetCoding/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Ayuushii/LeetCoding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ayuushii/LeetCoding/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
@@ -183,6 +184,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayuushii/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Ayuushii/LeetCoding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ayuushii/LeetCoding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
@@ -216,6 +218,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ayuushii/LeetCoding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ayuushii/LeetCoding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
@@ -245,6 +248,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ayuushii/LeetCoding/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -255,6 +259,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ayuushii/LeetCoding/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayuushii/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quickselect
