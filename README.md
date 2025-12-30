@@ -46,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ayuushii/LeetCoding/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0088-merge-sorted-array) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ayuushii/LeetCoding/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
