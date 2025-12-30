@@ -1,18 +1,20 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int k = 0;
-        int i=1;
-        while(i<nums.size()-k){
-            if(nums[i]==nums[i-1]){
-                for(int j=i; j<nums.size()-k-1; j++){
-                    nums[j]=nums[j+1];
-                }
-                k++;
-            } else {
-                i++;
-            }
+       //Keep a write index that tracks the correct writes to their positions;
+       int i=0;
+       //Keep a read index that moves till we find a number different than current
+       int j=0;
+       //A variable to store what value we already have and dont need anymore further.
+       int prev=-101;
+       for(i=0; i<nums.size();i++) {
+        //If we found a new value
+        if(nums[i]!=prev){
+            nums[j] = nums[i];
+            prev = nums[i];
+            j++;
         }
-        return nums.size()-k;
+       }
+       return j;
     }
 };
