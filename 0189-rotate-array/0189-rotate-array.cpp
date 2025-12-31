@@ -1,30 +1,24 @@
 class Solution {
 public:
-    void reverseArr (vector<int> &arr, int m, int n){
-        int temp;
-        while(m<=n){
-            temp = arr[m];
-            arr[m] = arr[n];
-            arr[n] = temp;
-            m++;
-            n--;
-        }
-    }
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
-
-        /* SOLUTION 1 - with O(n) space and using %
-        vector<int> temp(n);
-        for(int i=0;i<n;i++) {
-            temp[(i+k)%n] = nums[i];
+        //If k is bigger than n, better to do. Rotate by k is same as rotate by k%n
+        k = k%n;
+        int count = 0;
+        int start = 0;
+        while(count<n){
+            //Need to track if we dont repeat the same cycle
+            int current = start;
+            int prev = nums[start];
+            do {
+                int nextpos = (current+k)%n;
+                int temp = nums[nextpos];
+                nums[nextpos] = prev;
+                prev = temp;
+                current = nextpos;
+                count++;
+            } while(current!=start);
+            start++;
         }
-        nums = temp; */
-
-        /*SOLUTION 2 - Reverse part by part */
-        while(k>n)
-            k=k-n;
-        reverseArr(nums, n-k, n-1);
-        reverseArr(nums, 0, n-k-1);
-        reverseArr(nums, 0, n-1);
     }
 };
