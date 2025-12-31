@@ -22,6 +22,7 @@
 | [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ayuushii/LeetCoding/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Ayuushii/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayuushii/LeetCoding/tree/master/1663-smallest-string-with-a-given-numeric-value) |
@@ -209,6 +210,7 @@
 | [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Ayuushii/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
