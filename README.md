@@ -52,6 +52,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayuushii/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Ayuushii/LeetCoding/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Ayuushii/LeetCoding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ayuushii/LeetCoding/tree/master/0169-majority-element) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayuushii/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ayuushii/LeetCoding/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Ayuushii/LeetCoding/tree/master/0509-fibonacci-number) |
