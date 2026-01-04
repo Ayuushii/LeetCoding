@@ -1,6 +1,10 @@
 class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {
+        //Take the sum for first k numbers
+        //This is the maxsum for now
+        //from next number, subtract previous, add current to get new sum
+        //Check if it is greater than maxsum, if yes change max
         int n = nums.size();
         double sum{};
         double maxsum{};
