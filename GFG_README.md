@@ -4,6 +4,7 @@
 |  |
 | --- |
 | [gfg-bubble-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-bubble-sort) |
+| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-occurences-of-anagrams5839) |
 | [gfg-factorial5739](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-factorial5739) |
 | [gfg-first-negative-integer-in-every-window-of-size-k3345](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-first-negative-integer-in-every-window-of-size-k3345) |
 | [gfg-insertion-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-insertion-sort) |
@@ -16,6 +17,7 @@
 | --- |
 | [gfg-array-insert-at-end](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-array-insert-at-end) |
 | [gfg-array-insert-at-index](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-array-insert-at-index) |
+| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-occurences-of-anagrams5839) |
 | [gfg-largest-element-in-array4009](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-largest-element-in-array4009) |
 | [gfg-reverse-sub-array5620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-sub-array5620) |
 | [gfg-strongest-neighbour](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-strongest-neighbour) |
@@ -35,6 +37,7 @@
 |  |
 | --- |
 | [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
+| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-occurences-of-anagrams5839) |
 | [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
 | [gfg-finding-middle-element-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-finding-middle-element-in-a-linked-list) |
 | [gfg-largest-element-in-array4009](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-largest-element-in-array4009) |
@@ -68,6 +71,11 @@
 |  |
 | --- |
 | [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
+
+## Sliding Window
+|  |
+| --- |
+| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-occurences-of-anagrams5839) |
 
 ## Sorting
 |  |
