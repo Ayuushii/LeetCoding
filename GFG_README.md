@@ -1,10 +1,11 @@
-# GFG Topics
+# GeeksForGeeks Solutions
 
 ## Algorithms
 |  |
 | --- |
 | [gfg-bubble-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-bubble-sort) |
 | [gfg-factorial5739](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-factorial5739) |
+| [gfg-first-negative-integer-in-every-window-of-size-k3345](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-first-negative-integer-in-every-window-of-size-k3345) |
 | [gfg-insertion-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-insertion-sort) |
 | [gfg-selection-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-selection-sort) |
 | [gfg-square-pattern](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-square-pattern) |
