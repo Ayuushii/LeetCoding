@@ -99,6 +99,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ayuushii/LeetCoding/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Ayuushii/LeetCoding/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayuushii/LeetCoding/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayuushii/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Ayuushii/LeetCoding/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayuushii/LeetCoding/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
