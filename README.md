@@ -36,6 +36,7 @@
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ayuushii/LeetCoding/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
+| [0526-beautiful-arrangement](https://github.com/Ayuushii/LeetCoding/tree/master/0526-beautiful-arrangement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayuushii/LeetCoding/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
 ## Simulation
@@ -69,6 +70,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ayuushii/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ayuushii/LeetCoding/tree/master/0485-max-consecutive-ones) |
+| [0526-beautiful-arrangement](https://github.com/Ayuushii/LeetCoding/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayuushii/LeetCoding/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Ayuushii/LeetCoding/tree/master/0724-find-pivot-index) |
@@ -94,6 +96,7 @@
 | [0198-house-robber](https://github.com/Ayuushii/LeetCoding/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Ayuushii/LeetCoding/tree/master/0509-fibonacci-number) |
+| [0526-beautiful-arrangement](https://github.com/Ayuushii/LeetCoding/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
@@ -143,6 +146,7 @@
 | [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0090-subsets-ii) |
+| [0526-beautiful-arrangement](https://github.com/Ayuushii/LeetCoding/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
 ## Depth-First Search
 |  |
@@ -308,4 +312,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Ayuushii/LeetCoding/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
