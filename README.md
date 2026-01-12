@@ -14,6 +14,7 @@
 | [0509-fibonacci-number](https://github.com/Ayuushii/LeetCoding/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayuushii/LeetCoding/tree/master/0779-k-th-symbol-in-grammar) |
 | [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ayuushii/LeetCoding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -82,6 +83,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Ayuushii/LeetCoding/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ayuushii/LeetCoding/tree/master/1020-number-of-enclaves) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ayuushii/LeetCoding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ayuushii/LeetCoding/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayuushii/LeetCoding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ayuushii/LeetCoding/tree/master/1266-minimum-time-visiting-all-points) |
 ## Greedy
 |  |
 | ------- |
