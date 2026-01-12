@@ -27,6 +27,7 @@
 | [0125-valid-palindrome](https://github.com/Ayuushii/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayuushii/LeetCoding/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayuushii/LeetCoding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
@@ -319,4 +320,8 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Ayuushii/LeetCoding/tree/master/0526-beautiful-arrangement) |
+## Stack
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
