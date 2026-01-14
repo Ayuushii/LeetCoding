@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayuushii/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Ayuushii/LeetCoding/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ayuushii/LeetCoding/tree/master/0058-length-of-last-word) |
@@ -330,6 +331,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayuushii/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
