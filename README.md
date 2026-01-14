@@ -28,6 +28,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0680-valid-palindrome-ii) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayuushii/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayuushii/LeetCoding/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayuushii/LeetCoding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -308,6 +309,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayuushii/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayuushii/LeetCoding/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Merge Sort
 |  |
@@ -328,5 +330,6 @@
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayuushii/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
