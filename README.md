@@ -25,6 +25,7 @@
 | [0049-group-anagrams](https://github.com/Ayuushii/LeetCoding/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ayuushii/LeetCoding/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Ayuushii/LeetCoding/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Ayuushii/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0680-valid-palindrome-ii) |
@@ -332,6 +333,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ayuushii/LeetCoding/tree/master/0071-simplify-path) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayuushii/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
