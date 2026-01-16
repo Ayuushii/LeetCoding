@@ -90,6 +90,7 @@
 | [1020-number-of-enclaves](https://github.com/Ayuushii/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ayuushii/LeetCoding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ayuushii/LeetCoding/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1652-defuse-the-bomb](https://github.com/Ayuushii/LeetCoding/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayuushii/LeetCoding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayuushii/LeetCoding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -128,6 +129,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ayuushii/LeetCoding/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayuushii/LeetCoding/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/Ayuushii/LeetCoding/tree/master/1652-defuse-the-bomb) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
