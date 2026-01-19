@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Ayuushii/LeetCoding/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ayuushii/LeetCoding/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Ayuushii/LeetCoding/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ayuushii/LeetCoding/tree/master/0189-rotate-array) |
@@ -25,6 +26,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Ayuushii/LeetCoding/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Ayuushii/LeetCoding/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ayuushii/LeetCoding/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ayuushii/LeetCoding/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Ayuushii/LeetCoding/tree/master/0065-valid-number) |
@@ -54,6 +56,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ayuushii/LeetCoding/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Ayuushii/LeetCoding/tree/master/0415-add-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
