@@ -105,6 +105,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ayuushii/LeetCoding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayuushii/LeetCoding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayuushii/LeetCoding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayuushii/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3453-separate-squares-i](https://github.com/Ayuushii/LeetCoding/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
@@ -141,6 +142,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayuushii/LeetCoding/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Ayuushii/LeetCoding/tree/master/1652-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayuushii/LeetCoding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 | [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
 | [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ayuushii/LeetCoding/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Tree
 |  |
 | ------- |
