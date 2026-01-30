@@ -66,6 +66,7 @@
 | [0001-two-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ayuushii/LeetCoding/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Ayuushii/LeetCoding/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ayuushii/LeetCoding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ayuushii/LeetCoding/tree/master/0078-subsets) |
@@ -158,6 +159,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
 | [3453-separate-squares-i](https://github.com/Ayuushii/LeetCoding/tree/master/3453-separate-squares-i) |
