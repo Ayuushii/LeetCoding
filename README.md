@@ -39,6 +39,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Ayuushii/LeetCoding/tree/master/0680-valid-palindrome-ii) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/master/0784-letter-case-permutation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayuushii/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0981-time-based-key-value-store](https://github.com/Ayuushii/LeetCoding/tree/master/0981-time-based-key-value-store) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayuushii/LeetCoding/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayuushii/LeetCoding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -163,6 +164,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/master/0268-missing-number) |
+| [0981-time-based-key-value-store](https://github.com/Ayuushii/LeetCoding/tree/master/0981-time-based-key-value-store) |
 | [3453-separate-squares-i](https://github.com/Ayuushii/LeetCoding/tree/master/3453-separate-squares-i) |
 ## Prefix Sum
 |  |
@@ -232,6 +234,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayuushii/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/master/0939-minimum-area-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayuushii/LeetCoding/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0981-time-based-key-value-store](https://github.com/Ayuushii/LeetCoding/tree/master/0981-time-based-key-value-store) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayuushii/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
@@ -367,4 +370,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ayuushii/LeetCoding/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Ayuushii/LeetCoding/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
