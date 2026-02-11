@@ -31,17 +31,17 @@ jobs:
             src="$1"
             src="${src%/}"
             base="$(basename "$src")"
-
-            if [ -e "problems/$base" ]; then
-              echo "Skipping $base (already exists in problems/)"
-              return
+            dest="problems/$base"
+            if [ -e "$dest" ]; then
+              echo "Updating existing $dest (replacing with new content)"
+              git rm -r --cached "$dest" >/dev/null 2>&1 || true
+              rm -rf "$dest"
             fi
-
-            echo "Moving $base -> problems/$base"
-            git mv "$src" "problems/$base"
+            mkdir -p problems
+            echo "Moving $base -> $dest"
+            git mv "$src" "$dest"
             moved=1
           }
-
           # LeetHub folders: 0001-two-sum/
           for d in [0-9][0-9][0-9][0-9]-*/ ; do
             [ -e "$d" ] || continue
