@@ -1,0 +1,40 @@
+name: Sync Notion Patterns
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: |
+          npm init -y
+          npm i @notionhq/client notion-to-md
+
+      - name: Export Notion patterns
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
+        run: node scripts/notion_export.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "notion-sync-bot"
+          git config user.email "notion-sync-bot@users.noreply.github.com"
+          git add patterns/
+          git commit -m "Sync Notion patterns" || exit 0
+          git push
