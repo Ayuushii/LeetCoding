@@ -68,11 +68,21 @@ jobs:
           # Update links in root README + any root .md files
           for f in README.md *.md; do
             [ -f "$f" ] || continue
+
+            # 1) Relative links like (./0001-two-sum) -> (./problems/0001-two-sum)
             sed -i -E \
               -e 's/\(\.\/([0-9]{4}-[^)\/]+)\/?\)/(\.\/problems\/\1)/g' \
               -e 's/\(([0-9]{4}-[^)\/]+)\/?\)/(\.\/problems\/\1)/g' \
               -e 's/\(\.\/(gfg-[^)\/]+)\/?\)/(\.\/problems\/\1)/g' \
               -e 's/\(\.\/(GFG-[^)\/]+)\/?\)/(\.\/problems\/\1)/g' \
+              "$f"
+
+            # 2) Absolute GitHub links in LeetHub table:
+            # https://github.com/<user>/<repo>/tree/master/0007-reverse-integer
+            # -> https://github.com/<user>/<repo>/tree/main/problems/0007-reverse-integer
+            sed -i -E \
+              -e 's#https://github\.com/Ayuushii/LeetCoding/tree/master/([0-9]{4}-[^)\s]+)#https://github.com/Ayuushii/LeetCoding/tree/main/problems/\1#g' \
+              -e 's#https://github\.com/Ayuushii/LeetCoding/tree/main/([0-9]{4}-[^)\s]+)#https://github.com/Ayuushii/LeetCoding/tree/main/problems/\1#g' \
               "$f"
           done
 
