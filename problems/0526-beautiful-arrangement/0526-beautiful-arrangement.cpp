@@ -2,7 +2,6 @@ class Solution {
 public:
     int count = 0;
     void numperm(int pos, int n, vector<bool> used) {
-        /*Ayushi*/
         if(pos>n) {
             count++;
             return;
