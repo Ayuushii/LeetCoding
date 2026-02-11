@@ -84,6 +84,13 @@ jobs:
               -e 's#https://github\.com/Ayuushii/LeetCoding/tree/master/([0-9]{4}-[^)\s]+)#https://github.com/Ayuushii/LeetCoding/tree/main/problems/\1#g' \
               -e 's#https://github\.com/Ayuushii/LeetCoding/tree/main/([0-9]{4}-[^)\s]+)#https://github.com/Ayuushii/LeetCoding/tree/main/problems/\1#g' \
               "$f"
+            # 3) Absolute GitHub links for GFG folders:
+            # https://github.com/<user>/<repo>/tree/main/gfg-xyz -> .../tree/main/problems/gfg-xyz
+            sed -i -E \
+              -e 's#https://github\.com/Ayuushii/LeetCoding/tree/main/(gfg-[^)\s]+)#https://github.com/Ayuushii/LeetCoding/tree/main/problems/\1#g' \
+              -e 's#https://github\.com/Ayuushii/LeetCoding/tree/main/(GFG-[^)\s]+)#https://github.com/Ayuushii/LeetCoding/tree/main/problems/\1#g' \
+            "$f"
+
           done
 
       - name: Commit and push changes
