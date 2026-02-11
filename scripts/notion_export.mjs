@@ -9,7 +9,7 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 const parentPageId = process.env.NOTION_PAGE_ID;
 if (!parentPageId) throw new Error("Missing NOTION_PAGE_ID");
 
-const outDir = path.join(process.cwd(), "patterns");
+const outDir = path.join(process.cwd(), "00_patterns");
 fs.mkdirSync(outDir, { recursive: true });
 
 async function getChildPages(blockId) {
