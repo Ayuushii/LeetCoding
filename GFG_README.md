@@ -3,30 +3,30 @@
 ## Algorithms
 |  |
 | --- |
-| [gfg-bubble-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-bubble-sort) |
-| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-occurences-of-anagrams5839) |
-| [gfg-factorial5739](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-factorial5739) |
-| [gfg-first-negative-integer-in-every-window-of-size-k3345](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-first-negative-integer-in-every-window-of-size-k3345) |
-| [gfg-insertion-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-insertion-sort) |
+| [gfg-bubble-sort](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-bubble-sort) |
+| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-count-occurences-of-anagrams5839) |
+| [gfg-factorial5739](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-factorial5739) |
+| [gfg-first-negative-integer-in-every-window-of-size-k3345](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-first-negative-integer-in-every-window-of-size-k3345) |
+| [gfg-insertion-sort](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-insertion-sort) |
 | [gfg-selection-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-selection-sort) |
 | [gfg-square-pattern](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-square-pattern) |
-| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
+| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-who-will-win-1587115621) |
 
 ## Arrays
 |  |
 | --- |
-| [gfg-array-insert-at-end](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-array-insert-at-end) |
-| [gfg-array-insert-at-index](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-array-insert-at-index) |
-| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-occurences-of-anagrams5839) |
-| [gfg-largest-element-in-array4009](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-largest-element-in-array4009) |
-| [gfg-reverse-sub-array5620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-sub-array5620) |
+| [gfg-array-insert-at-end](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-array-insert-at-end) |
+| [gfg-array-insert-at-index](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-array-insert-at-index) |
+| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-count-occurences-of-anagrams5839) |
+| [gfg-largest-element-in-array4009](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-largest-element-in-array4009) |
+| [gfg-reverse-sub-array5620](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-reverse-sub-array5620) |
 | [gfg-strongest-neighbour](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-strongest-neighbour) |
-| [gfg-who-has-the-majority](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-has-the-majority) |
+| [gfg-who-has-the-majority](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-who-has-the-majority) |
 
 ## Binary Search
 |  |
 | --- |
-| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
+| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-who-will-win-1587115621) |
 
 ## Bit Magic
 |  |
@@ -36,61 +36,61 @@
 ## Data Structures
 |  |
 | --- |
-| [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
-| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-occurences-of-anagrams5839) |
-| [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
-| [gfg-finding-middle-element-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-finding-middle-element-in-a-linked-list) |
-| [gfg-largest-element-in-array4009](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-largest-element-in-array4009) |
-| [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
-| [gfg-nth-node-from-end-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-nth-node-from-end-of-linked-list) |
-| [gfg-reverse-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-a-linked-list) |
+| [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-count-nodes-of-linked-list) |
+| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-count-occurences-of-anagrams5839) |
+| [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-display-doubly-linked-list--154650) |
+| [gfg-finding-middle-element-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-finding-middle-element-in-a-linked-list) |
+| [gfg-largest-element-in-array4009](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-largest-element-in-array4009) |
+| [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-linked-list-insertion-1587115620) |
+| [gfg-nth-node-from-end-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-nth-node-from-end-of-linked-list) |
+| [gfg-reverse-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-reverse-a-linked-list) |
 | [gfg-set-kth-bit3724](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-set-kth-bit3724) |
-| [gfg-who-has-the-majority](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-has-the-majority) |
+| [gfg-who-has-the-majority](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-who-has-the-majority) |
 
 ## Doubly Linked List
 |  |
 | --- |
-| [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
+| [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-display-doubly-linked-list--154650) |
 
 ## Linked List
 |  |
 | --- |
-| [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-nodes-of-linked-list) |
-| [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-display-doubly-linked-list--154650) |
-| [gfg-finding-middle-element-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-finding-middle-element-in-a-linked-list) |
-| [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-linked-list-insertion-1587115620) |
-| [gfg-nth-node-from-end-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-nth-node-from-end-of-linked-list) |
-| [gfg-reverse-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-a-linked-list) |
+| [gfg-count-nodes-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-count-nodes-of-linked-list) |
+| [gfg-display-doubly-linked-list--154650](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-display-doubly-linked-list--154650) |
+| [gfg-finding-middle-element-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-finding-middle-element-in-a-linked-list) |
+| [gfg-linked-list-insertion-1587115620](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-linked-list-insertion-1587115620) |
+| [gfg-nth-node-from-end-of-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-nth-node-from-end-of-linked-list) |
+| [gfg-reverse-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-reverse-a-linked-list) |
 
 ## Mathematical
 |  |
 | --- |
-| [gfg-factorial5739](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-factorial5739) |
+| [gfg-factorial5739](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-factorial5739) |
 
 ## Searching
 |  |
 | --- |
-| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-who-will-win-1587115621) |
+| [gfg-who-will-win-1587115621](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-who-will-win-1587115621) |
 
 ## Sliding Window
 |  |
 | --- |
-| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-count-occurences-of-anagrams5839) |
+| [gfg-count-occurences-of-anagrams5839](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-count-occurences-of-anagrams5839) |
 
 ## Sorting
 |  |
 | --- |
-| [gfg-bubble-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-bubble-sort) |
-| [gfg-insertion-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-insertion-sort) |
+| [gfg-bubble-sort](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-bubble-sort) |
+| [gfg-insertion-sort](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-insertion-sort) |
 | [gfg-selection-sort](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-selection-sort) |
 
 ## Strings
 |  |
 | --- |
-| [gfg-remove-spaces0128](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-remove-spaces0128) |
-| [gfg-reverse-a-string](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-reverse-a-string) |
+| [gfg-remove-spaces0128](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-remove-spaces0128) |
+| [gfg-reverse-a-string](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-reverse-a-string) |
 
 ## Two Pointer Algorithm
 |  |
 | --- |
-| [gfg-finding-middle-element-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/gfg-finding-middle-element-in-a-linked-list) |
+| [gfg-finding-middle-element-in-a-linked-list](https://github.com/Ayuushii/LeetCoding/tree/main/problems/gfg-finding-middle-element-in-a-linked-list) |
