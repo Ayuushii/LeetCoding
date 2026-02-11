@@ -25,15 +25,15 @@ Each folder contains:
 
 ## Topic Indexes
 
-### GFG Topic Index
+### GFG
 GFG problems are indexed here:
-👉 [Open GFG Index](./GFG_README.md)
+[Open GFG Index](./GFG_README.md)
 
-### LeetCode Topic Index
+### LeetCode
 
 <details>
-<summary>📂 Expand LeetCode Topic Index</summary>
-<br>
+<summary>LeetCode Problems by Topic</summary>
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
@@ -409,4 +409,5 @@ GFG problems are indexed here:
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
+
 </details>
