@@ -1,5 +1,39 @@
-## [View GFG Topics](./GFG_README.md)
+# LeetCode & GFG Practice Repository
+A structured collection of Data Structures & Algorithms problems solved in C++.
 
+## Navigation
+
+- **Pattern Notes** → [View Patterns](./patterns/)
+- **LeetCode Problems** → [Browse All Problems](./problems/)
+- **GFG Topics** → [View GFG Index](./GFG_README.md)
+
+## Repository Structure
+
+### 1️⃣ Patterns
+High-level problem-solving patterns (Sliding Window, DP, Binary Search, etc.)  
+Each pattern contains:
+- Explanation
+- When to use
+- Common tricks
+- Linked practice problems
+
+### 2️⃣ Problems
+All LeetCode and GFG problems are stored inside problems/  
+Each folder contains:  
+- Solution code
+- Problem README (statement or link)
+
+## Topic Indexes
+
+### GFG Topic Index
+GFG problems are indexed here:
+👉 [Open GFG Index](./GFG_README.md)
+
+### LeetCode Topic Index
+
+<details>
+<summary>📂 Expand LeetCode Topic Index</summary>
+<br>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
@@ -375,3 +409,4 @@
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
+</details>
