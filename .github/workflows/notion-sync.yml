@@ -35,6 +35,6 @@ jobs:
         run: |
           git config user.name "notion-sync-bot"
           git config user.email "notion-sync-bot@users.noreply.github.com"
-          git add patterns/
+          git add 00_patterns/
           git commit -m "Sync Notion patterns" || exit 0
           git push
