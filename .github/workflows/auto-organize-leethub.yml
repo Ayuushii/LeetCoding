@@ -1,0 +1,88 @@
+name: Auto-organize problem folders
+
+on:
+  push:
+    branches: ["main", "master"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  move:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Ensure problems folder exists
+        run: |
+          mkdir -p problems
+
+      - name: Move LeetCode and GFG folders into /problems
+        run: |
+          set -e
+          moved=0
+
+          move_dir () {
+            src="$1"
+            src="${src%/}"
+            base="$(basename "$src")"
+
+            if [ -e "problems/$base" ]; then
+              echo "Skipping $base (already exists in problems/)"
+              return
+            fi
+
+            echo "Moving $base -> problems/$base"
+            git mv "$src" "problems/$base"
+            moved=1
+          }
+
+          # LeetHub folders: 0001-two-sum/
+          for d in [0-9][0-9][0-9][0-9]-*/ ; do
+            [ -e "$d" ] || continue
+            move_dir "$d"
+          done
+
+          # GFG folders (adjust if your names differ)
+          for d in gfg-*/ GFG-*/ ; do
+            [ -e "$d" ] || continue
+            move_dir "$d"
+          done
+
+          if [ "$moved" -eq 0 ]; then
+            echo "No folders to move."
+            exit 0
+          fi
+
+      - name: Rewrite root markdown links to point to /problems
+        run: |
+          set -e
+
+          # Update links in root README + any root .md files
+          for f in README.md *.md; do
+            [ -f "$f" ] || continue
+            sed -i -E \
+              -e 's/\(\.\/([0-9]{4}-[^)\/]+)\/?\)/(\.\/problems\/\1)/g' \
+              -e 's/\(([0-9]{4}-[^)\/]+)\/?\)/(\.\/problems\/\1)/g' \
+              -e 's/\(\.\/(gfg-[^)\/]+)\/?\)/(\.\/problems\/\1)/g' \
+              -e 's/\(\.\/(GFG-[^)\/]+)\/?\)/(\.\/problems\/\1)/g' \
+              "$f"
+          done
+
+      - name: Commit and push changes
+        run: |
+          set -e
+          if git status --porcelain | grep -q .; then
+            git config user.name "repo-organizer-bot"
+            git config user.email "repo-organizer-bot@users.noreply.github.com"
+            git add -A
+            git commit -m "chore: move problem folders into /problems and fix links"
+            git push
+          else
+            echo "No changes to commit."
+          fi
