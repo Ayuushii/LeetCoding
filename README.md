@@ -129,6 +129,7 @@ GFG problems are indexed here:
 | [0724-find-pivot-index](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/Ayuushii/LeetCoding/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Ayuushii/LeetCoding/tree/master/0912-sort-an-array) |
 | [0939-minimum-area-rectangle](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0939-minimum-area-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0961-n-repeated-element-in-size-2n-array) |
@@ -198,6 +199,7 @@ GFG problems are indexed here:
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/Ayuushii/LeetCoding/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0981-time-based-key-value-store) |
 | [3453-separate-squares-i](https://github.com/Ayuushii/LeetCoding/tree/master/3453-separate-squares-i) |
 ## Prefix Sum
