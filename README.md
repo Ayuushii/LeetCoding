@@ -127,6 +127,7 @@ GFG problems are indexed here:
 | [0526-beautiful-arrangement](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Ayuushii/LeetCoding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0746-min-cost-climbing-stairs) |
@@ -200,6 +201,7 @@ GFG problems are indexed here:
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayuushii/LeetCoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0268-missing-number) |
+| [0704-binary-search](https://github.com/Ayuushii/LeetCoding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0981-time-based-key-value-store) |
 | [3453-separate-squares-i](https://github.com/Ayuushii/LeetCoding/tree/master/3453-separate-squares-i) |
