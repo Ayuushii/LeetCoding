@@ -17,7 +17,9 @@ public:
         /*Solution 2: Bit manipulation
         Doing XOR or a binary number with it's right-shifted version gives seq of 1s
         Eg: 6 is 110 >>1 is 011 and 110^011 is not 11111...
-        Eg; 5 is 101 >>1 is 010 and 101^010 is 1111... */
+        Eg; 5 is 101 >>1 is 010 and 101^010 is 1111...
+        For all 1s binary this holds true -> x & x+1 = 0
+        equality operator (==) has lower precedence than arithmetic (+, -, *, /) and shift operators, but higher precedence than bitwise operators (&, |, ^) */
 
         uint x = n^(n >> 1);
         if((x&(x+1))==0)
