@@ -86,6 +86,7 @@ GFG problems are indexed here:
 | [0136-single-number](https://github.com/Ayuushii/LeetCoding/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0268-missing-number) |
 | [0526-beautiful-arrangement](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0526-beautiful-arrangement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Ayuushii/LeetCoding/tree/master/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0784-letter-case-permutation) |
 ## Simulation
