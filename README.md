@@ -75,6 +75,7 @@ GFG problems are indexed here:
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0981-time-based-key-value-store) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ayuushii/LeetCoding/tree/main/problems/1249-minimum-remove-to-make-valid-parentheses) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayuushii/LeetCoding/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayuushii/LeetCoding/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayuushii/LeetCoding/tree/main/problems/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
@@ -89,12 +90,14 @@ GFG problems are indexed here:
 | [0693-binary-number-with-alternating-bits](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0784-letter-case-permutation) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayuushii/LeetCoding/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0067-add-binary) |
 | [0415-add-strings](https://github.com/Ayuushii/LeetCoding/tree/main/problems/0415-add-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayuushii/LeetCoding/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayuushii/LeetCoding/tree/main/problems/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
